@@ -49,7 +49,7 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	if (PressurePlate->IsOverlappingActor(ActorThatOpens)) {
 		OpenDoor();
 		
-		UE_LOG(LogTemp, Warning, TEXT("Door Open"));
+		
 		LastDoorOpenTime = GetWorld()->GetTimeSeconds();
 	}
 
