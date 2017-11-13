@@ -72,6 +72,7 @@ Global
 		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.DebugGame|Win64.Build.0 = DebugGame_Game|x64
 		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.Development Editor|HTML5.ActiveCfg = HTML5_Development_Editor|Win32
 		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.Development Editor|Win32.ActiveCfg = Development_Editor|Win32
+		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.Development Editor|Win32.Build.0 = Development_Editor|Win32
 		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.Development Editor|Win64.ActiveCfg = Development_Editor|x64
 		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.Development Editor|Win64.Build.0 = Development_Editor|x64
 		{BAE5ED54-549E-460D-A335-3E8538D59CFD}.Development|HTML5.ActiveCfg = HTML5_Development_Game|Win32
